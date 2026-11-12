@@ -1,0 +1,10 @@
+{
+  "name": "Remix Remix Galería 3D: Encuentra el Intruso",
+  "description": "Experiencia web 3D interactiva e inmersiva para recorrer una galería de arte, observar las obras maestras y descubrir los elementos intrusos con controles móviles, giroscopio y detección táctil.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
